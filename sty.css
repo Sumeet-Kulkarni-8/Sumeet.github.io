@@ -79,14 +79,6 @@ header{
     text-align: center;
 }
 
-header .user img{
-    height: 13rem;
-    width: 13rem;
-    border-radius: 50%;
-    object-fit: cover;
-    border: .5rem solid;
-}
-
 header .user .nm{
     font-size:2rem;
     color: #fff;
@@ -135,7 +127,7 @@ header .nv ul li a:hover{
 
 .Details .Row .det h3{
     font-size: 2rem;
-    color: yellow;
+    color: brown;
     padding: 1rem 0;
     font-weight: normal;
 }
