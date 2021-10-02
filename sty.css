@@ -1,6 +1,12 @@
 *{
-    padding: 0;
-    margin: 0;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;;
+    margin-top:100px;
+    margin-bottom:100px;
+    margin-right:50px;
+    margin-left:50px;
     outline: none;
     border: none;
     box-sizing: border-box;
@@ -11,7 +17,7 @@ html{
     overflow-x: hidden;
 }
 body{
-    background-color: #111;
+    background-color: #00FF00;
     overflow: hidden;
     padding-left: 35rem;
 }
@@ -135,7 +141,7 @@ header .nv ul li a:hover{
 
 .Details .Row .det h3{
     font-size: 2rem;
-    color: brown;
+    color: blue;
     padding: 1rem 0;
     font-weight: normal;
 }
